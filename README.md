@@ -1,0 +1,1 @@
+# sonarqube-amazon-linux-java-17
